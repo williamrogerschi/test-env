@@ -1,0 +1,21 @@
+{
+  "name": "wumpy-test",
+  "displayName": "wumpy test",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "wumpy test",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wumpy test-color-theme.json"
+      }
+    ]
+  }
+}
